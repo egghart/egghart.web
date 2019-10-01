@@ -7,8 +7,8 @@ include_in_footer: true
 
 # Changelog
 
-### `Latest`
-# **Version 1.1.0**
+#### `Latest`
+## **Version 1.1.0**
 Dark Mode, a dramatic new look that's easy on your eyes and helps you focus on your ~~work~~ cooking.
 
 #### What's New
@@ -20,7 +20,7 @@ Dark Mode, a dramatic new look that's easy on your eyes and helps you focus on y
 
 <br>
 
-## **Version 1.0.1**
+### **Version 1.0.1**
 Bugfix Release
 
 #### Bug Fixes
@@ -28,6 +28,6 @@ Bugfix Release
 
 <br>
 
-### `Initial Release`
-## **Version 1.0.0**
+#### `Initial Release`
+### **Version 1.0.0**
 Releasing Egghart to the World!
