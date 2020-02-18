@@ -11,14 +11,13 @@ app_name: Egghart - The Egg Timer # Automatically populates if not set and if iO
 app_price: 0.99$ # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 
 app_description: |
-  The cozy sunday morning breakfast is served. Delicious rolls, orange juice, everything seems perfect – but the breakfast egg is rock hard cooked.
+  Sun­day morning bre­ak­fast is ser­ved. De­li­cious rolls, freshly squeezed oran­ge juice, ever­y­thing seems per­fect – but the breakfast egg is rock hard cooked.
 
-  <br/><br/>The drama is over: Egghart - The egg timer for your perfect breakfast egg.
+  <br/><br/>Fortunately, this disaster has come to an end thanks to <br/>Egg­hart - The egg ti­mer for your per­fect bre­ak­fast egg.
 
-appstore_link: https://apps.apple.com/de/app/egghart-die-eieruhr/id1400384964?mt=8 # Automatically populates if not set and if iOS app ID is set.
+appstore_link: https://apps.apple.com/en/app/egghart-die-eieruhr/id1400384964?mt=8 # Automatically populates if not set and if iOS app ID is set.
 #playstore_link: # Enter Google Play Store URL.
 #presskit_download_link: "assets/presskit.zip" # Enter a link to downloadable file or upload your press kit file to assets
-
 
 # Information About Yourself
 your_name: Markus Winter
