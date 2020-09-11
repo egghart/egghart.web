@@ -21,14 +21,14 @@ appstore_link: https://apps.apple.com/en/app/egghart-die-eieruhr/id1400384964?mt
 
 # Information About Yourself
 your_name: Markus Winter
-your_link: https://wntr.me
+your_link: http://twitter.com/markuswntr # https://wntr.me
 partner_name: Dana Saager
-partner_link: https://danasaager.de
+partner_link: https://twitter.com/danasaager # https://danasaager.de
 your_city: Hamburg, Germany
 email_address: support@egghart.app
 
-twitter_username: markuswntr
-github_username: markuswntr
+#twitter_username: markuswntr
+#github_username: egghart
 #facebook_username:
 #instagram_username:
 #youtube_username:
